@@ -113,7 +113,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "If you'd like to discuss my research, current or past projects, or have a project you'd like to collaborate on, feel free to reach out to me via email at:",
+    "I'd be happy to discuss my research, current or past projects, or have a project you'd like to collaborate on, feel free to reach out to me via email at:",
   email: "soroush.baghernezhad3@gmail.com",
 };
 
