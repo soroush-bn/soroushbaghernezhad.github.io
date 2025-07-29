@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Soroush",
   middleName: "",
   lastName: "Baghernezhad",
-  message: " AI enthusiast, Programmer. ",
+  message: " ",
   icons: [
     {
       image: "fa-github",
@@ -42,8 +42,8 @@ const about = {
   imageLink: require("../editable-stuff/mypic.jpg"),
   imageSize: 375,
   message:
-    "Hi, I'm Soroush Baghernezhad, I'm craving for learning new stuff, especially, things related to AI, art, programming, health and everything that enhance the life.",
-  resume: "",
+    "Hi, I'm Soroush Baghernezhad, I'm craving for learning new stuff, especially, things related to AI, art, programming, health and everything that enhance the life. Currently, I'm doing my master's degree in Computer Science at MUN. My research is focused on HCI and prosthetic control and bio-signal processing. Beside that, I play Dota 2 since 2014, one of my future projects gonna be using haptic feedback to enhance the gaming experience in Dota 2.",
+  resume: require("../editable-stuff/CV.pdf"),
 };
 
 // PROJECTS SECTION
@@ -113,7 +113,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "If you'd like to discuss my research, current or past projects, or have a project you'd like to collaborate on, feel free to reach out to me via email at:",
   email: "soroush.baghernezhad3@gmail.com",
 };
 
